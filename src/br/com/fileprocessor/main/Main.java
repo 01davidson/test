@@ -2,7 +2,7 @@ package br.com.fileprocessor.main;
 
 import java.util.List;
 
-import br.com.fileprocess.pojo.DataFileResponse;
+import br.com.fileprocessor.pojo.DataFileResponse;
 import br.com.fileprocessor.config.DataType;
 import br.com.fileprocessor.helper.RegistryHelper;
 import br.com.fileprocessor.service.FileService;

@@ -1,4 +1,4 @@
-package br.com.fileprocess.pojo;
+package br.com.fileprocessor.pojo;
 
 import java.math.BigDecimal;
 

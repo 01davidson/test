@@ -3,11 +3,11 @@ package br.com.fileprocessor.helper;
 import java.math.BigDecimal;
 import java.util.List;
 
-import br.com.fileprocess.pojo.AbsRegistry;
-import br.com.fileprocess.pojo.Client;
-import br.com.fileprocess.pojo.DataFileResponse;
-import br.com.fileprocess.pojo.Sale;
-import br.com.fileprocess.pojo.Salesman;
+import br.com.fileprocessor.pojo.AbsRegistry;
+import br.com.fileprocessor.pojo.Client;
+import br.com.fileprocessor.pojo.DataFileResponse;
+import br.com.fileprocessor.pojo.Sale;
+import br.com.fileprocessor.pojo.Salesman;
 import br.com.fileprocessor.config.DataResponseFields;
 import br.com.fileprocessor.config.RegistryType;
 

@@ -13,9 +13,9 @@ import java.nio.file.Paths;
 import java.util.ArrayList;
 import java.util.List;
 
-import br.com.fileprocess.pojo.AbsRegistry;
-import br.com.fileprocess.pojo.DataFileProcessedInfo;
-import br.com.fileprocess.pojo.DataFileResponse;
+import br.com.fileprocessor.pojo.AbsRegistry;
+import br.com.fileprocessor.pojo.DataFileProcessedInfo;
+import br.com.fileprocessor.pojo.DataFileResponse;
 import br.com.fileprocessor.config.DataType;
 import br.com.fileprocessor.config.FileType;
 import br.com.fileprocessor.config.PathValues;
